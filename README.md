@@ -1,21 +1,30 @@
-![Mac Van Thanh — Fresher AI Engineer](assets/banner.png)
+﻿![Mac Van Thanh — Fresher AI Engineer](assets/banner.png)
 
 <p align="center">
-  <strong>Fresher AI Engineer</strong><br />
-  Building, learning, and improving intelligent systems.<br />
-  Hanoi, Vietnam
+  <strong>Hi, I'm Mac Van Thanh</strong><br />
+  Fresher AI Engineer · Hanoi, Vietnam<br />
+  Building, learning, and improving intelligent systems.
 </p>
 
-## About
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=macvanthanh123&style=flat&color=8a7650" alt="Profile views" />
+</p>
 
-I’m Mac Van Thanh, an AI & Data Science learner based in Hanoi, Vietnam. I build and explore AI applications with LLMs, retrieval-augmented generation (RAG), and AI agents.
+## About Me
 
-I’m interested in the engineering behind useful AI products: backend APIs, data retrieval, multi-stage pipelines, evaluation, and performance. My goal is to make AI systems more reliable and measurable beyond a demo.
+I’m an AI & Data Science learner focused on building applications with LLMs, retrieval-augmented generation (RAG), and AI agents. I enjoy working across the full system: backend APIs, data retrieval, multi-stage pipelines, evaluation, and performance.
+
+- Based in Hanoi, Vietnam
+- Interested in reliable, measurable AI systems beyond the demo
+- Currently exploring AI agents, LLM evaluation, and AI platform engineering
 
 ## Languages & Tools
 
 **Languages**<br />
 <img src="https://skillicons.dev/icons?i=python,ts,js&theme=light" alt="Python, TypeScript, JavaScript" />
+
+**AI & LLM Engineering**<br />
+`LLMs` · `RAG` · `AI Agents` · `Embeddings` · `Vector Search` · `Hybrid Search` · `LLM Evaluation` · `MCP`
 
 **Backend**<br />
 <img src="https://skillicons.dev/icons?i=fastapi,nestjs,nodejs&theme=light" alt="FastAPI, NestJS, Node.js" />
@@ -29,47 +38,66 @@ I’m interested in the engineering behind useful AI products: backend APIs, dat
 **Tools**<br />
 <img src="https://skillicons.dev/icons?i=docker,git,github,linux,vscode&theme=light" alt="Docker, Git, GitHub, Linux, Visual Studio Code" />
 
-**AI engineering topics**<br />
-LLMs · RAG · AI agents · Embeddings · Vector and hybrid search · LLM API integration · AI evaluation · Computer vision · YOLO · ONNX
-
 ## Featured Projects
 
 ### TraVy — AI Travel Assistant
 
-An AI travel assistant focused on destinations in Vietnam. The project explores destination discovery, travel information retrieval, context-aware itinerary planning, and adapting plans to conversation context.
+An AI travel assistant focused on destinations in Vietnam. It explores destination discovery, travel information retrieval, context-aware itinerary planning, and adapting plans to conversation context.
 
-**Architecture:** React and TypeScript frontend → NestJS backend → FastAPI AI service → LLM, retrieval, and external APIs.
+- **Architecture:** React and TypeScript frontend → NestJS backend → FastAPI AI service → LLM, retrieval, and external APIs
+- **Engineering focus:** Intent routing, hybrid retrieval, multi-stage workflows, conversation history, external API failures, answer quality, prompt injection, guardrails, and response latency
+- **Stack:** React · TypeScript · NestJS · FastAPI · Python · Supabase · LLM APIs
 
-**Engineering focus:** Intent routing, hybrid retrieval, multi-stage AI workflows, conversation history, external API failures, answer quality, prompt injection, guardrails, and response latency. Streaming and other implementation details are still being explored.
+### AI Agent Evaluation Platform — In Development
 
-**Stack:** React · TypeScript · NestJS · FastAPI · Python · Supabase · LLM APIs
+A platform concept for testing and evaluating chatbot, RAG, and agent systems. Areas under exploration include golden datasets, offline evaluation, custom rubrics, regression checks, trace analysis, and evaluation reports.
 
-### AI Agent Evaluation Platform — In development
-
-A platform concept for testing and evaluating chatbot, RAG, and agent systems. Current areas of exploration include golden datasets, offline evaluation, custom rubrics, regression checks, trace analysis, and evaluation reports.
-
-**Engineering focus:** Evaluation pipeline design, test data management, comparing model outputs, and diagnosing failures.
-
-**Related technologies:** Python · PostgreSQL · Docker · LLM APIs · MCP
+- **Engineering focus:** Evaluation pipeline design, test data management, output comparison, and failure diagnosis
+- **Related technologies:** Python · PostgreSQL · Docker · LLM APIs · MCP
 
 ### RAG-based University Admission Assistant — Research
 
 A university admissions question-answering assistant exploring document processing, chunking, embeddings, semantic retrieval, and answers grounded in source material. The implementation is under research and design.
 
-**Related technologies:** Python · RAG · LLM APIs · Vector search
+- **Related technologies:** Python · RAG · LLM APIs · Vector search
 
 ### Fire & Smoke Detection with YOLO — Research
 
-A computer vision project exploring fire and smoke detection, from dataset preparation and model training to inference and ONNX export. No benchmark results are listed here.
+A computer vision project exploring fire and smoke detection, from dataset preparation and model training to inference and ONNX export.
 
-**Related technologies:** Python · YOLOv8 · Computer vision · ONNX
+- **Related technologies:** Python · YOLOv8 · Computer vision · ONNX
 
 ## Currently Exploring
 
 AI agent architectures · Multi-agent systems · LLM evaluation · LLMOps · AI observability · System design · Scalable AI applications · Model Context Protocol · AI infrastructure · Performance optimization
 
-## Connect
+## GitHub Stats
 
-- [GitHub](https://github.com/macvanthanh123)
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=macvanthanh123&show_icons=true&hide_border=true&bg_color=00000000&title_color=c4a96a&icon_color=c4a96a&text_color=c9c9c9" />
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=macvanthanh123&show_icons=true&hide_border=true&bg_color=00000000&title_color=8a7650&icon_color=8a7650&text_color=333333" alt="Mac Van Thanh's GitHub statistics" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=macvanthanh123&layout=compact&hide_border=true&bg_color=00000000&title_color=c4a96a&text_color=c9c9c9" />
+    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=macvanthanh123&layout=compact&hide_border=true&bg_color=00000000&title_color=8a7650&text_color=333333" alt="Most used programming languages" />
+  </picture>
+</p>
+
+## GitHub Activity
+
+<p align="center">
+  <a href="https://github.com/macvanthanh123">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=macvanthanh123&bg_color=00000000&color=8a7650&line=8a7650&point=c4a96a&area=true&hide_border=true" alt="Mac Van Thanh's GitHub activity graph" />
+  </a>
+</p>
+
+## Connect With Me
+
+<p>
+  <a href="https://github.com/macvanthanh123">
+    <img src="https://skillicons.dev/icons?i=github&theme=light" width="40" alt="GitHub" />
+  </a>
+</p>
 
 <p align="center"><sub>Build · Learn · Ship · Improve</sub></p>
