@@ -12,11 +12,21 @@
 
 ## About Me
 
+<img align="right" width="320" src="assets/lam-anh-gif1.gif" alt="Animated illustration of a developer working at a desk" />
+
 I’m an AI & Data Science learner focused on building applications with LLMs, retrieval-augmented generation (RAG), and AI agents. I enjoy working across the full system: backend APIs, data retrieval, multi-stage pipelines, evaluation, and performance.
 
 - Based in Hanoi, Vietnam
 - Interested in reliable, measurable AI systems beyond the demo
 - Currently exploring AI agents, LLM evaluation, and AI platform engineering
+
+<br clear="right" />
+
+## Connect With Me
+
+<a href="https://github.com/macvanthanh123">
+  <img src="https://skillicons.dev/icons?i=github&theme=light" width="40" alt="GitHub" />
+</a>
 
 ## Languages & Tools
 
@@ -89,14 +99,6 @@ AI agent architectures · Multi-agent systems · LLM evaluation · LLMOps · AI 
 <p align="center">
   <a href="https://github.com/macvanthanh123">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=macvanthanh123&bg_color=00000000&color=8a7650&line=8a7650&point=c4a96a&area=true&hide_border=true" alt="Mac Van Thanh's GitHub activity graph" />
-  </a>
-</p>
-
-## Connect With Me
-
-<p>
-  <a href="https://github.com/macvanthanh123">
-    <img src="https://skillicons.dev/icons?i=github&theme=light" width="40" alt="GitHub" />
   </a>
 </p>
 
