@@ -27,6 +27,8 @@ I’m an AI & Data Science learner focused on building applications with LLMs, r
 <a href="https://github.com/macvanthanh123">
   <img src="https://skillicons.dev/icons?i=github&theme=light" width="40" alt="GitHub" />
 </a>
+&nbsp;
+<img src="https://skillicons.dev/icons?i=linkedin&theme=light" width="40" alt="LinkedIn" />
 
 ## Languages & Tools
 
@@ -34,7 +36,7 @@ I’m an AI & Data Science learner focused on building applications with LLMs, r
 <img src="https://skillicons.dev/icons?i=python,ts,js&theme=light" alt="Python, TypeScript, JavaScript" />
 
 **AI & LLM Engineering**<br />
-`LLMs` · `RAG` · `AI Agents` · `Embeddings` · `Vector Search` · `Hybrid Search` · `LLM Evaluation` · `MCP`
+<img src="assets/ai-llm-concepts.svg" width="744" alt="LLMs, RAG, AI Agents, Embeddings, Vector Search, Hybrid Search, LLM Evaluation, and MCP" />
 
 **Backend**<br />
 <img src="https://skillicons.dev/icons?i=fastapi,nestjs,nodejs&theme=light" alt="FastAPI, NestJS, Node.js" />
@@ -81,18 +83,6 @@ A computer vision project exploring fire and smoke detection, from dataset prepa
 
 AI agent architectures · Multi-agent systems · LLM evaluation · LLMOps · AI observability · System design · Scalable AI applications · Model Context Protocol · AI infrastructure · Performance optimization
 
-## GitHub Stats
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=macvanthanh123&show_icons=true&hide_border=true&bg_color=00000000&title_color=c4a96a&icon_color=c4a96a&text_color=c9c9c9" />
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=macvanthanh123&show_icons=true&hide_border=true&bg_color=00000000&title_color=8a7650&icon_color=8a7650&text_color=333333" alt="Mac Van Thanh's GitHub statistics" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=macvanthanh123&layout=compact&hide_border=true&bg_color=00000000&title_color=c4a96a&text_color=c9c9c9" />
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=macvanthanh123&layout=compact&hide_border=true&bg_color=00000000&title_color=8a7650&text_color=333333" alt="Most used programming languages" />
-  </picture>
-</p>
 
 ## GitHub Activity
 
